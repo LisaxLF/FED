@@ -59,28 +59,37 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Hier korte omschrijving (met indien nodig afbeeldingen):
+
+  Bij de screenreader krijg je een korte omvatting van afbeeldingen, die niet voldoen aan wat er in werkelijk
+  werd getoond in deze afbeeldingen. Gebruikers kunnen hierdoor dus de afbeelding anders begrijpen.
+  De tweede bevindeng is bij een carousel, als je bijvoorbeeld klinkt op 1 van de afbeeldingen in het carousel word deze uitgesproken. Dit zou als fijn ervaart kunnen worden, maar eventueel zou ook de hele reeks afgespeeld kunnen worden. De laatste bevinding had ik ondervonden bij de indeling van de mobiele website die veranderde door voice-over. Hiermee werd de 'features lijst' halverwege gesplitst.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  De volgende punten kunnen worden opgelost door simpelweg afbeeldingen een beter alt tekst te geven, die beter passen bij de
+  weergeven afbeeldingen. De carousel alle afbeeldingen af te spreken en om een betere indeling voor de feature lijst toe te 
+  passen, zodat deze niet halverwege worden gesplitst.
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Hier korte omschrijving (met indien nodig afbeeldingen):
+  De grootste bevinding is dat de website niet funcioneert met toetsenbord functies, zoals tab en pijltjes. Elementen en knoppen worden overgeslagen, navigatie tabs worden geselecteerd maar niet uitgeklapt, dus je weet niet welke er geselecteerd is.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Dit site laten functioneren met tabs en toetsenbord control. zodat er logisch getabt kan worden door de site heen. Navigatie word bij selectatie uitgeklapt, zodat de gebruiker weet waar hij/zij is.
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bij het testen van de website en mobiele website met motoriek beperkingen, viel op dat het gebruik van toetsenbord handig is om snel door de site heen te komen zoals met de pijltjes scrollen. In het geval van de mobiele website is het wat lastiger om met elastiekjes door te kunnen scrollen
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Het focus punt van het bestellen mag groter en duidelijker weergegeven worden. Door de motorieke beperkingen is het van belang dat knoppen 
+  wat groter zijn. andere elementen zoals swipe buttons met pijltjes ook groter kunnen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bij het testen van de website en mobiele website met een visuele beperking is het lastig om kleine letters
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
 </details>
 
 
