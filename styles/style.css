@@ -42,7 +42,7 @@ button, summary {
 	--margin-bottom-headings-h3: 0.5em;
 	--margin-large-buttons: 0.6em 1.5em;
 
-	--padding-large-buttons: .8em;
+	--padding-large-buttons: 1em;
 
 	/* HEIGHTS EN WIDTHS */
 	--articles-height: 100vh;
@@ -64,7 +64,7 @@ body {
   background-color:var(--color-background);
 }
 
-article {
+main > article {
 	width: var(--articles-width);
 	height: var(--articles-height);
 }
@@ -187,7 +187,7 @@ main p {
 /***********/
 /* ARTICLES */
 /***********/
-article{
+main > article {
 	display: flex;
 	flex-direction: column;
 }
@@ -239,7 +239,7 @@ main article:first-of-type #Movingcontroller {
 
 /* Linkjes van 1e article */
 
-main article a {
+main article a, main section a {
 	font-family:var(--font-family-kleine-tekst);
 	font-size: var(--fontsize-large-buttons);
 	padding: var(--padding-large-buttons);
@@ -345,46 +345,139 @@ main section:nth-of-type(1){
 	margin: 6.4em 0em;
 	height: auto;
 	text-align: center;
+	overflow: hidden;
+}
+
+main section:nth-of-type(1) > h3 {
+	padding: 0 0.6em;
 }
 
 main section:nth-of-type(1) > p {
 	line-height: 1.4em;
 	margin-top: 1.2em;
+	padding: 0 1.28em;
+    margin-bottom: 2.5em;
 }
 
-main section:nth-of-type(1) div {
+main section:nth-of-type(1) ul:first-of-type, main section:nth-of-type(1) ul:last-of-type {
 	display: grid;
-	grid-template-columns: repeat(3, 300px);
-	grid-template-rows: repeat(2, 1fr);
+	grid-template-columns: repeat(6, 300px);
+	grid-template-rows: repeat(1, 1fr);
+	gap: 1.5em;
+	margin-bottom: 2em;
+	margin-left: 1.5em;
 }
 
-main  section div article:nth-child(1) > img, main  section div article:nth-of-type(2) > img, main section:first-of-type div:first-of-type article:nth-of-type(3) {
-	width: 300px;
+main section:nth-of-type(1) ul:first-of-type {
+	animation: scrollingleftright 11s linear infinite;
 }
 
-main section:nth-of-type(1) div article div {
+main section:nth-of-type(1) ul:last-of-type{
+	animation: scrollingrightleft 8s linear infinite;
+}
+
+@keyframes scrollingleftright {
+	0% { transform: translateX(0);}
+	100% { transform: translateX(-975px);}
+}
+
+@keyframes scrollingrightleft {
+	0% { transform: translateX(0);}
+	100% { transform: translateX(-975px);}
+}
+
+main section:nth-of-type(1) li article div:first-of-type {
 	display: flex;
 	flex-direction: row;
-	justify-content: center;
 	align-items: center;
 }
 
-section:first-of-type div:first-of-type article > img {
+section:first-of-type li {
+	width: 300px;
+	list-style: none;
+}
+
+section:first-of-type li > img {
 	width: 300px;
 	height: 168px;
 }
 
-section:first-of-type div:first-of-type article div:first-of-type > img {
+section:first-of-type li div:first-of-type {
+	display: flex;
+	flex-direction: row;
+}
+
+section:first-of-type li div:first-of-type > img {
 	width: 32px;
 	height: 24px;
 }
 
-section:first-of-type div:first-of-type article div:first-of-type {
+section:first-of-type li div:first-of-type {
 	margin-top: .5em;
+	justify-content: center;
 }
 
-section:first-of-type div:first-of-type article div:first-of-type > p {
+section:first-of-type li div:first-of-type > p {
 	color: black;
 	font-weight: bold;
 	margin-left: 1em;
+}
+
+section:first-of-type > a {
+	display: block;
+	border: 1px solid var(--color-accent);
+	background-color: var(--color-accent);
+    color: white;
+}
+
+/* ARTICLE 4 */
+article:nth-of-type(4) {
+	height: fit-content;
+	background-color: #4e5af0;
+	color: white;
+	text-align: center;
+}
+
+article:nth-of-type(4) h3 {
+	margin-top: 0.5em;
+	padding: 0.5em 0.6em;
+	font-size: 1.8em;
+}
+
+article:nth-of-type(4) p {
+	padding: 0.8em 1.5em;
+	font-size: 1.2em;
+	line-height: 1.3em;
+}
+
+article:nth-of-type(4) a {
+	border: 1px solid white;
+}
+
+article:nth-of-type(4) div:first-of-type {
+	position: relative;
+	z-index: 0;
+}
+
+article:nth-of-type(4) div:first-of-type > img {
+	width: 100vw;
+	z-index: 0;
+}
+
+article:nth-of-type(4) div:first-of-type ul {
+	display: flex;
+	align-items: center;
+	position: absolute;
+	z-index: 5;
+}
+
+article:nth-of-type(4) div:first-of-type li {
+	margin: 0em 0.5em;
+	list-style: none;
+}
+
+article:nth-of-type(4) div:first-of-type li button {
+	width: 1em;
+	height: 1em;
+	border-radius: 2em;
 }
