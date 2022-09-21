@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/playstationedition.PNG" width="375px" alt="Screenshot playstation edition">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Backbone platformen pagina
+  Backbone webshop
   <img src="readme-images/platformen.PNG" width="375px" alt="Screenshot platformen">
  
 </details>
@@ -81,15 +81,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Bij het testen van de website en mobiele website met motoriek beperkingen, viel op dat het gebruik van toetsenbord handig is om snel door de site heen te komen zoals met de pijltjes scrollen. In het geval van de mobiele website is het wat lastiger om met elastiekjes door te kunnen scrollen
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  <b>Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)<b>
   Het focus punt van het bestellen mag groter en duidelijker weergegeven worden. Door de motorieke beperkingen is het van belang dat knoppen 
   wat groter zijn. andere elementen zoals swipe buttons met pijltjes ook groter kunnen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Bij het testen van de website en mobiele website met een visuele beperking is het lastig om kleine letters
+  Bij het testen van de website en mobiele website met een visuele beperking is het lastig om kleine letters te kunnen lezen. Of lage contrasten te kunnen constanteren. Bij de website zelf is geen verschil tussen dark/light modus, de vraag alleen is of dit echt nodig is. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Vooral bij de website de contrasten groot genoeg houden. Kopjes zijn gelukkig al best wel groot dus dat zeker behouden.
 </details>
 
 
@@ -120,30 +121,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben nog niet heel ver gekomen met mijn website, omdat ik nog bezig ben met de breakdown en
+  hoe ik dit graag zou willen indelen. Zodat ik daarna snel van slag kan om alles in elkaar te zetten.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Bente heeft verschilende vragen voor haar website, daarom hebben wij als groepje gekozen dat
+  zij dan als eerst aan de beurt is. Daarna is Ryan die ook wat vraagjes heeft. Julian en ik 
+  willen graag wat feedback over ons huidig werk.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - De section kunnen een aria label krijgen als het een thema/onderwerp heeft.
+  - Het gebruiken van positions zijn nu duidelijk.
+  - Ik hoef nog geen zorgen te maken over het gebruiken van een grid of flex. Gewoon
+  beginnen en dan bekijken. 
 
 </details>
-
-
 
 
 
