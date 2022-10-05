@@ -106,8 +106,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -129,8 +127,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   Bente heeft verschilende vragen voor haar website, daarom hebben wij als groepje gekozen dat
-  zij dan als eerst aan de beurt is. Daarna is Ryan die ook wat vraagjes heeft. Julian en ik 
-  willen graag wat feedback over ons huidig werk.
+  zij dan als eerst aan de beurt is. Daarna is Ryan die ook wat vraagjes heeft. Tijn en ik willen graag wat feedback over ons huidig werk.
 
 
   ### Verslag van meeting
@@ -151,30 +148,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  voor het tweede gesprek sta ik goed in mijn schoenen wat betreft mijn website. Ik heb een grote sprong gemaakt sinds vorig voortganggesprek. Zo ben ik al begonnen met het implenmeteren van animaties en dergelijke. Ik heb toch een aantal vraagjes
+  wat betreft mijn vraagjes. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - Bente heeft niet heel veel vragen, wil het liefst eigenlijk feedback over haar gemaakte werk. 
+  - Ryan heeft ook graag dingen die hij wilt laten zien als voortgang. 
+  - Tijn heeft ook vragen over zijn werk 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ik heb gevraagd of de studentassisten naar mijn code konden kijken en of
+  ik dit goed deed. (semantisch correct). Daarnaast was een andere vraag of ik 
+  divjes mocht gebruiken alleen voor het stijlen en na ook de docent te hebben gesproken was dit mogelijk.
+  - Op mijn vragen had ik in iedergeval goede antwoorden gekregen waarmee ik verder
+  kon
 
 </details>
-
-
 
 
 
@@ -187,32 +182,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  De screenreader op mijn computer doet het een beetje vaag, hij leest het niet helemaal op de juiste manier voor. Ik ben aan het twijfelen of het door windows komt? Ik heb nog niet echt goede resultaten uit de test kunnen halen. Ook sommige knoppen leest hij niet voor of kan hij het niet goed uitspreken omdat dit engels is.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Bij de muis en toetsenbord hadden ik en Eefje ondervonden tijdens het testen dat nog niet alles goed werkte met de tabjes en de pijltjes. 
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  bij de motoriek testeb kwamen positieve feedback uit, de knoppen die waren gebruikt bij mijn ontwerp waren grote knoppen. dit maakte het makkelijker voor Eefje om toch te kunnen klinken op de verschillende buttons. 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bij de visuele testen kwamen er verder ook geen verrassende resulaten. Ook weer door de grote knoppen was het makkelijk te komen op hetgene waar Eefje wou zijn. De contrasten waren ook duidelijk genoeg om niet in de verwarring te komen en kon met de brillen nog steeds alles goed zien.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  #### Waar moet ik mijn aandacht nog even insteken?
+  Bij de screenreader en de muis en toetsenbord testen kan ik nog veel veranderen waardoor mijn gemaakte website beter is dan de andere. Ik heb een paar ideeen hoe dit al een stuk beter kan en die neem ik daarom ook mee naar het volgende voortgangsgesprek.
 
 </details>
-
-
-
 
 
 ## Voortgang 3 (week 4)
@@ -221,31 +207,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ook deze week was ik goed bezig, ik had al een begin van de tweede website en mijn eerste pagina was al bijna zo goed als af. Ik ben nog even gaan kijken naar reponsiveness van de website maar dat bleek toch een beetje lastig te zijn. Toch komt het vaker voor dat er ineens foutjes blijken te zijn, die probeer ik zo goed mogelijk op te lossen.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - Met zijn alle willen we nog onze laatst werk zien er zijn van te voren nog geen concrete vragen
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Eerst hadden we nog niet echt vragen of dingen waar we het graag over zouden hebben. Totdat mij te binnenschiet over
+  de toegankelijkheid van mijn website. Hierin laat de docent heel erg makkelijke trucs zien hoe ik bijvoorbeeld een
+  skip link kan maken, hoe attributen werken en ook hoe je nou zo'n nav kan uitklappen. Met deze handige tricks kunnen we
+  nu allemaal aan de slag.
 
 </details>
-
-
-
 
 
 ## Eindgesprek (week 5)
@@ -254,23 +230,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
+  Pagina 1:
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+
+  Pagina 2:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Wat vooral bij mij goed gingen waren de animatie's daar was ik ook heel trots op.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/CarouselGrid.jpg" width="375px" alt="top">
+  <img src="readme-images/TechSpecs.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Ik heb niet perse iets waarvan ik denk nou dat is lelijk of niet goed gelukt. Ik had wel dingen die
+  wat lastiger gingen dan verwacht.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/AltijdMis.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Hinderlijk.jpg" width="375px" alt="bummer">
+
 </details>
-
-
-
 
 
 ## Bronnenlijst
@@ -280,8 +261,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.youtube.com/watch?v=UTHgr6NLeEw | Make Awesome SVG Animations with CSS
+  2. https://codepen.io/mayurbirle/pen/NvXKPq?editors=1100 | De responsive CSS3 Slider
+  3. https://codepen.io/stephenpaton-tech/full/JjRvGmY | Custom scrollbar maker
+  4. https://html-css-js.com/css/generator/box-shadow/ | shadow generator CSS
+  5. https://svgartista.net/ | SVG Animation CSS
 
 </details>

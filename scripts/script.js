@@ -2,8 +2,8 @@
 console.log("hi");
 
 var MenuButton = document.querySelector("header button:first-of-type");
-var NavEl = document.querySelector('nav');
-var SluitButton = document.querySelector('nav div button')
+var NavEl = document.querySelector('header nav');
+var SluitButton = document.querySelector('header nav div button')
 
 var LeftButtonGamepass = document.querySelector('article:nth-of-type(4) article:first-of-type div ul li:first-of-type')
 var RightButtonGamepass = document.querySelector('article:nth-of-type(4) article:first-of-type div ul li:last-of-type')
@@ -29,14 +29,15 @@ function OpenMenu() {
 
 function SluitMenu() {
     NavEl.classList.remove('ToonMenu')
+    console.log('Stuur deze message')
 }
 
-function VorigElement(){
+function VorigElement() {
     Gamepass.classList.toggle('next')
-    
+
 }
 
-function VolgendElement(){
+function VolgendElement() {
     Gamepass.classList.toggle('next')
 }
 
